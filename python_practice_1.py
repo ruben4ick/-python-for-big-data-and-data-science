@@ -1,0 +1,1 @@
+print("Anton Ruban, KN-1")
